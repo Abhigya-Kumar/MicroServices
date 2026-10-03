@@ -15,7 +15,6 @@ export async function createTask(input) {
 }
 
 // user and admin - in this same function
-// created 2 separate function one for admin and one for user
 // listAdminTasks
 // listUserTasks
 // manage in all places
